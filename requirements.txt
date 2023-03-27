@@ -1,0 +1,4 @@
+pandas
+selenium
+chromedriver-py==111.0.5563.64
+loguru
